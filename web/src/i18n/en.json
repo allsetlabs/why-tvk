@@ -1,0 +1,106 @@
+{
+  "hero": {
+    "partyName": "Tamilaga Vettri Kazhagam",
+    "partyNameEn": "Tamilaga Vettri Kazhagam",
+    "tagline": "Transforming Tamil Nadu's Future",
+    "quote": "From now on, governance will serve the people",
+    "scrollDown": "Scroll Down"
+  },
+  "nav": {
+    "home": "Home",
+    "domains": "Governance Domains",
+    "atrocities": "Atrocities",
+    "vision": "TVK Vision",
+    "language": "தமிழ்"
+  },
+  "domains": {
+    "education": "Education",
+    "healthcare": "Healthcare",
+    "economy": "Economy",
+    "infrastructure": "Infrastructure",
+    "lawAndOrder": "Law & Order",
+    "agriculture": "Agriculture",
+    "viewDetails": "View Details"
+  },
+  "stats": {
+    "source": "Source",
+    "year": "Year",
+    "before": "Before",
+    "after": "After",
+    "beforeAfter": "Before vs After",
+    "keyFindings": "Key Findings"
+  },
+  "domainPage": {
+    "keyFindings": "Key Findings",
+    "dataVisualization": "Data Visualization",
+    "statsOverview": "Stats Overview",
+    "trends": "Trends"
+  },
+  "footer": {
+    "tagline": "Built with truth and data",
+    "connect": "Connect",
+    "sourceBadge": "Backed by {{count}} government sources"
+  },
+  "atrocitiesSection": {
+    "title": "Atrocities Timeline",
+    "subtitle": "A sourced chronicle of governance failures — backed by government data",
+    "currentReality": "Current Reality",
+    "tvkPromise": "TVK Promise"
+  },
+  "visionSection": {
+    "title": "TVK Vision",
+    "subtitle": "After the anger, hope. This is what TVK promises to change."
+  },
+  "about": {
+    "title": "About TVK",
+    "subtitle": "Tamilaga Vettri Kazhagam — a party born from the people's anger, built on data and truth.",
+    "visionTitle": "Vijay's Vision",
+    "visionQuote": "Politics should not be a business. It should be service. Every rupee of public money must reach the last person in the last village.",
+    "visionBody": "TVK was founded with one conviction: Tamil Nadu deserves governance that is transparent, accountable, and driven by data — not dynasty, not caste arithmetic, not corporate deals. We believe in empowering the youth, protecting farmers, and building a Tamil Nadu where no mother has to bribe for her child's education.",
+    "timelineTitle": "Our Journey",
+    "milestone": {
+      "partyFounded": "Tamilaga Vettri Kazhagam officially founded by Vijay",
+      "firstConference": "First state-level conference — over 1 lakh attendees from 38 districts",
+      "grassroots": "Ward-level committees established across all 38 districts",
+      "manifestoLaunch": "Data-driven manifesto platform launched — every claim backed by government sources"
+    },
+    "principlesTitle": "Core Principles",
+    "principle": {
+      "transparency": {
+        "title": "Radical Transparency",
+        "desc": "Every claim sourced from government data. No news blogs, no WhatsApp forwards. Only verifiable truth."
+      },
+      "dataFirst": {
+        "title": "Data-First Governance",
+        "desc": "Policy decisions driven by statistics and evidence, not political convenience or electoral math."
+      },
+      "youthPower": {
+        "title": "Youth Power",
+        "desc": "Tamil Nadu's median age is 33. This party is built by and for the generation that will live with the consequences."
+      },
+      "socialJustice": {
+        "title": "Social Justice",
+        "desc": "Zero tolerance for caste discrimination, custodial violence, and systemic exclusion. Every citizen equal."
+      }
+    },
+    "joinTitle": "Join the Movement",
+    "joinSubtitle": "Volunteer with TVK. No money needed — just your conviction.",
+    "thankYou": "Welcome to TVK!",
+    "thankYouMsg": "A district coordinator will reach out to you soon. Together, we change Tamil Nadu.",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Your full name",
+      "phone": "Phone Number",
+      "district": "District",
+      "selectDistrict": "Select your district",
+      "ward": "Ward / Area (Optional)",
+      "wardPlaceholder": "e.g. Ward 42, Thiruvanmiyur",
+      "submit": "Join TVK as Volunteer"
+    }
+  },
+  "common": {
+    "close": "Close",
+    "readMore": "Read More",
+    "notFound": "Domain not found"
+  }
+}

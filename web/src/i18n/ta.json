@@ -1,0 +1,59 @@
+{
+  "hero": {
+    "partyName": "தமிழக வெற்றி கழகம்",
+    "partyNameEn": "Tamilaga Vettri Kazhagam",
+    "tagline": "தமிழகத்தின் எதிர்காலத்தை மாற்றுவோம்",
+    "quote": "இனி ஆட்சி மக்களுக்காக நடக்கும்",
+    "scrollDown": "கீழே உருட்டவும்"
+  },
+  "nav": {
+    "home": "முகப்பு",
+    "domains": "ஆட்சித்துறைகள்",
+    "atrocities": "அட்டூழியங்கள்",
+    "vision": "TVK தொலைநோக்கு",
+    "language": "English"
+  },
+  "domains": {
+    "education": "கல்வி",
+    "healthcare": "சுகாதாரம்",
+    "economy": "பொருளாதாரம்",
+    "infrastructure": "உள்கட்டமைப்பு",
+    "lawAndOrder": "சட்டம் & ஒழுங்கு",
+    "agriculture": "விவசாயம்",
+    "viewDetails": "விவரங்கள் காண"
+  },
+  "stats": {
+    "source": "ஆதாரம்",
+    "year": "ஆண்டு",
+    "before": "முன்பு",
+    "after": "பின்பு",
+    "beforeAfter": "முன்பு எதிர் பின்பு",
+    "keyFindings": "முக்கிய கண்டுபிடிப்புகள்"
+  },
+  "domainPage": {
+    "keyFindings": "முக்கிய கண்டுபிடிப்புகள்",
+    "dataVisualization": "தரவு காட்சிப்படுத்தல்",
+    "statsOverview": "புள்ளிவிவர மேலோட்டம்",
+    "trends": "போக்குகள்"
+  },
+  "footer": {
+    "tagline": "உண்மையும் தரவும் கொண்டு கட்டப்பட்டது",
+    "connect": "இணையுங்கள்",
+    "sourceBadge": "{{count}} அரசு ஆதாரங்களால் ஆதரிக்கப்படுகிறது"
+  },
+  "atrocitiesSection": {
+    "title": "அட்டூழியங்கள்",
+    "subtitle": "அரசு தரவுகளால் ஆதரிக்கப்பட்ட ஆட்சித் தோல்விகளின் வரலாறு",
+    "currentReality": "தற்போது",
+    "tvkPromise": "TVK உறுதிமொழி"
+  },
+  "visionSection": {
+    "title": "TVK தொலைநோக்கு",
+    "subtitle": "கோபத்திற்குப் பிறகு, நம்பிக்கை. இது TVK இன் உறுதிமொழி."
+  },
+  "common": {
+    "close": "மூடு",
+    "readMore": "மேலும் படிக்க",
+    "notFound": "துறை கிடைக்கவில்லை"
+  }
+}
