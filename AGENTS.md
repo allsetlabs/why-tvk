@@ -19,7 +19,7 @@ why-tvk/
 └── .board/    # Agent communication hub (JSON documents)
 ```
 
-Stack: React + Vite + TypeScript, GSAP (ScrollTrigger), Three.js / React Three Fiber, Recharts or D3.js for charts, react-i18next, `@allsetlabs/reusable` from `../../forge`. Dev port: 4006.
+Stack: React + Vite + TypeScript, GSAP (ScrollTrigger), Three.js / React Three Fiber, Recharts or D3.js for charts, react-i18next, `@allsetlabs/forge` from `../../forge`. Dev port: 4006.
 
 ## Development Commands
 
